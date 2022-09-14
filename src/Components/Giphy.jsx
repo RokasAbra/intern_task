@@ -133,7 +133,7 @@ const [nlp, setNlp] = useState([]);
                 <NavLink
                   className="nav-link active"
                   aria-current="page"
-                  to='/'
+                  to='/intern_task'
                 >
                   Home
                 </NavLink>
